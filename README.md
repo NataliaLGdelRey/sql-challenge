@@ -1,4 +1,12 @@
----
+
+Starter Folder
+--------------------
+* `.sql` file of table schemata.
+
+* `.sql` file of queries.
+
+
+-------------------------------------------------------
 title: "Module 9 Challenge"
 type: assignment
 ---
